@@ -1,0 +1,1 @@
+Hello Tung!,time_namelookup:0.079571,time_connect:0.079912,time_appconnect:0.000000,time_pretransfer:0.080125,time_redirect:0.000000,time_starttransfer:159.406316,time_total:159.406651

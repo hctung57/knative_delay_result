@@ -1,0 +1,3 @@
+Hello Tung!,time_namelookup:0.145620,time_connect:0.146205,time_appconnect:0.000000,time_pretransfer:0.146416,time_redirect:0.000000,time_starttransfer:188.707923,time_total:188.708568
+Hello Tung!,time_namelookup:0.078333,time_connect:0.079378,time_appconnect:0.000000,time_pretransfer:0.080574,time_redirect:0.000000,time_starttransfer:286.115520,time_total:286.116362
+Hello Tung!,time_namelookup:0.077896,time_connect:0.078965,time_appconnect:0.000000,time_pretransfer:0.079165,time_redirect:0.000000,time_starttransfer:5.733464,time_total:5.733662

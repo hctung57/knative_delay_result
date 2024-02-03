@@ -1,0 +1,10 @@
+Hello Tung!,time_namelookup:0.153720,time_connect:0.154241,time_appconnect:0.000000,time_pretransfer:0.154416,time_redirect:0.000000,time_starttransfer:230.672547,time_total:230.673207
+Hello Tung!,time_namelookup:0.081380,time_connect:0.081820,time_appconnect:0.000000,time_pretransfer:0.081973,time_redirect:0.000000,time_starttransfer:99.167293,time_total:99.167757
+Hello Tung!,time_namelookup:0.082226,time_connect:0.082615,time_appconnect:0.000000,time_pretransfer:0.082773,time_redirect:0.000000,time_starttransfer:20.658948,time_total:20.659340
+Hello Tung!,time_namelookup:0.151690,time_connect:0.152073,time_appconnect:0.000000,time_pretransfer:0.152227,time_redirect:0.000000,time_starttransfer:137.762668,time_total:137.763181
+Hello Tung!,time_namelookup:0.156272,time_connect:0.157526,time_appconnect:0.000000,time_pretransfer:0.159064,time_redirect:0.000000,time_starttransfer:44.375330,time_total:44.375593
+Hello Tung!,time_namelookup:0.079670,time_connect:0.080102,time_appconnect:0.000000,time_pretransfer:0.080346,time_redirect:0.000000,time_starttransfer:252.109578,time_total:252.109929
+Hello Tung!,time_namelookup:0.153999,time_connect:0.154562,time_appconnect:0.000000,time_pretransfer:0.154793,time_redirect:0.000000,time_starttransfer:95.091380,time_total:95.091768
+Hello Tung!,time_namelookup:0.005924,time_connect:0.006320,time_appconnect:0.000000,time_pretransfer:0.006447,time_redirect:0.000000,time_starttransfer:34.745169,time_total:34.745577
+Hello Tung!,time_namelookup:0.082962,time_connect:0.083486,time_appconnect:0.000000,time_pretransfer:0.083698,time_redirect:0.000000,time_starttransfer:57.950762,time_total:57.951206
+Hello Tung!,time_namelookup:0.151830,time_connect:0.152176,time_appconnect:0.000000,time_pretransfer:0.152307,time_redirect:0.000000,time_starttransfer:29.012978,time_total:29.013415
